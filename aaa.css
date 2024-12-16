@@ -241,14 +241,9 @@ main {
     max-width: 2000px;
     background-color: #F2EAD3;
 }
-.elenco h3{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
 .reviews h3{
-    display: flex;
+    
     justify-content: space-between;
     align-items: center;
   }
